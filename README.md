@@ -8,3 +8,4 @@ But i can say that efficiency of any algorithm is based on your requirements, da
 
 In this repository, there are three python files(.ipynb) where both the algorithms are implemented with 3 different libraries so that you can compare it properly by loading ur datasets.
 After importing the modules, give the absolute path of your dataset in place of ../.
+Execute cell by cell to get proper idea.
